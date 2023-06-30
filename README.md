@@ -16,8 +16,6 @@ I'm a former researcher who is excitedly transitioning into the field of data an
 - Excel/Google Sheets
 - Looker Studio
 
-❕ I am seeking new challenges and opportunities in the field of Data Analytics.
-
 ### Feel free to contact me!
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/alina-leščinskaitė)
